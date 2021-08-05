@@ -10,13 +10,13 @@ public class variable {
      
     // char c='A'; // for single charactor(2 btyes)
      
-     //short s=5000;// integer value (2 bytes)
+     //short s=5000; // integer value (2 bytes)
      
-    // int my_int =50;// integer value (4 btyes)
+    // int my_int =50; // integer value (4 btyes)
      
-    // float my_float=50.5f;// floating numbers(4 btyes)
+    // float my_float=50.5f; // floating numbers(4 btyes)
      
-    // long my_long=40000000;// highest integer range(8 bytes)
+    // long my_long=40000000; // highest integer range(8 bytes)
      
      double my_double=40000000.5d; // highest floating number range(8 bytes)
 
